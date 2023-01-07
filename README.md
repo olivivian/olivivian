@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-你好，这里是Axjy，是一名前端开发工程师。爱生活、爱技术、爱分享。正在慢慢的搭建初中级的前端知识库，同时在往高级和全栈的方向探索，如果正好你也是，就一起随行吧！🧐
+你好，这里是Axjy，是一名前端开发工程师。爱生活、爱技术、爱分享。正在搭建初中级的前端知识库，同时在往高级和全栈的方向探索，如果正好你也是，就一起随行吧！🧐
 
 **不迷路指南**
 
@@ -25,12 +25,17 @@
 <a target="_blank" href="https://less.bootcss.com/">![](https://img.shields.io/badge/-Less-FF99CC)</a>
 <a target="_blank" href="https://echarts.apache.org/zh/index.html">![](https://img.shields.io/badge/-Echart-CC99FF)</a>
 
+
+<a target="_blank" href="https://www.w3school.com.cn/jquery/index.asp">![](https://img.shields.io/badge/-Jquery-lightgrey)</a>
+<a target="_blank" href="https://www.bootcss.com/">![](https://img.shields.io/badge/-Bootstraps-lightgrey)</a>
+<a target="_blank" href="https://www.axjy.info">![](https://img.shields.io/badge/-Layui-lightgrey)</a>
+
 **正在学的**
 
 <a target="_blank" href="https://react.docschina.org/">![](https://img.shields.io/badge/-React-555555?style=flat-square&logo=react)</a>
 <a target="_blank" href="https://www.tslang.cn/index.html">![](https://img.shields.io/badge/-Typescript-red)</a>
 <a target="_blank" href="https://blog.redis.com.cn/doc/">![](https://img.shields.io/badge/-Nginx-blue)</a>
-<a target="_blank" href="https://docs.docker.com/">![](https://img.shields.io/badge/-Docker-lightgrey)</a>
+<a target="_blank" href="https://docs.docker.com/">![](https://img.shields.io/badge/-Docker-66CC99)</a>
 <a target="_blank" href="https://www.nodeapp.cn/">![](https://img.shields.io/badge/-NodeJs-blueviolet)</a>
 
 **准备学的**
@@ -42,6 +47,29 @@
 <a target="_blank" href="https://www.axjy.info">![](https://img.shields.io/badge/-Axure-663333)</a>
 
 **我喜欢的工具**
+
+<a target="_blank" href="https://github.com/zxlie/FeHelper" style="margin-right: 20px;">
+  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/FeHelper.png' style="width:50px;height:50px">
+</a>
+<a target="_blank" href="https://www.jetbrains.com.cn/webstorm/" style="margin-right: 20px;">
+  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/WS.png' style="width:50px;height:50px">
+</a>
+<a target="_blank" href="https://code.visualstudio.com/" style="margin-right: 20px;">
+  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/VS.png' style="width:50px;height:50px">
+</a>
+<a target="_blank" href="https://www.typoraio.cn/" style="margin-right: 20px;">
+  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/Typora.png' style="width:50px;height:50px">
+</a>
+<a target="_blank" href="https://www.u.tools/" style="margin-right: 20px;">
+  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/uTool.png' style="width:120px;height:50px">
+</a>
+<a target="_blank" href="https://molunerfinn.com/PicGo/" style="margin-right: 20px;">
+  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/PicGo.png' style="width:50px;height:50px">
+</a>
+<a target="_blank" href="https://www.xshell.com/zh/xftp/">
+  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/xftp.png' style="width:50px;height:50px">
+</a>
+
 
 <!--
 **olivivian/olivivian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
