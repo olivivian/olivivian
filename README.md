@@ -2,6 +2,8 @@
 
 你好，这里是Axjy，是一名前端开发工程师。爱生活、爱技术、爱分享。正在搭建初中级的前端知识库，同时在往高级和全栈的方向探索，如果正好你也是，就一起随行吧！🧐
 
+<br/>
+
 **🏆 不迷路指南**
 
 > 由于域名可能会换，所以发现链接失效就来这边找最新的吧！
@@ -10,11 +12,10 @@
 - 这个是 😄 [个人博客JinBlog](www.axjy.info)
 - 这个是 ⚡ [资源导航JinTool](https://olivivian.gitee.io/nav/#)
 
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6&margin-w=15)](https://www.axjy.info)
 
 
+<br/>
 
 **我擅长的**
 
@@ -36,6 +37,10 @@
 <a target="_blank" href="https://www.bootcss.com/">![](https://img.shields.io/badge/-Bootstraps-lightgrey)</a>
 <a target="_blank" href="https://www.axjy.info">![](https://img.shields.io/badge/-Layui-lightgrey)</a>
 
+<br/>
+
+------
+
 **正在学的**
 
 <a target="_blank" href="https://react.docschina.org/">![](https://img.shields.io/badge/-React-555555?style=flat-square&logo=react)</a>
@@ -52,7 +57,13 @@
 <a target="_blank" href="https://www.reactnative.cn/">![](https://img.shields.io/badge/-ReactNative-666600)</a>
 <a target="_blank" href="https://www.axjy.info">![](https://img.shields.io/badge/-Axure-663333)</a>
 
-**我喜欢的工具**
+------
+
+<br/>
+
+
+
+**提效工具安利**
 
 <a target="_blank" href="https://www.jetbrains.com.cn/webstorm/">
   <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/WS.png' style="width:50px;height:50px">
