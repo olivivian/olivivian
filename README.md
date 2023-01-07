@@ -2,13 +2,19 @@
 
 你好，这里是Axjy，是一名前端开发工程师。爱生活、爱技术、爱分享。正在搭建初中级的前端知识库，同时在往高级和全栈的方向探索，如果正好你也是，就一起随行吧！🧐
 
-**不迷路指南**
+**🏆 不迷路指南**
 
 > 由于域名可能会换，所以发现链接失效就来这边找最新的吧！
 
 - 这个是 🌱 [资料库JinDoc](doc.axjy.info)
 - 这个是 😄 [个人博客JinBlog](www.axjy.info)
 - 这个是 ⚡ [资源导航JinTool](https://olivivian.gitee.io/nav/#)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6&margin-w=15)](https://www.axjy.info)
+
+
 
 **我擅长的**
 
@@ -48,27 +54,32 @@
 
 **我喜欢的工具**
 
-<a target="_blank" href="https://github.com/zxlie/FeHelper" style="margin-right: 20px;">
-  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/FeHelper.png' style="width:50px;height:50px">
-</a>
-<a target="_blank" href="https://www.jetbrains.com.cn/webstorm/" style="margin-right: 20px;">
+<a target="_blank" href="https://www.jetbrains.com.cn/webstorm/">
   <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/WS.png' style="width:50px;height:50px">
-</a>
-<a target="_blank" href="https://code.visualstudio.com/" style="margin-right: 20px;">
+</a>&nbsp&nbsp
+<a target="_blank" href="https://code.visualstudio.com/">
   <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/VS.png' style="width:50px;height:50px">
-</a>
-<a target="_blank" href="https://www.typoraio.cn/" style="margin-right: 20px;">
+</a>&nbsp&nbsp
+<a target="_blank" href="https://www.typoraio.cn/">
   <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/Typora.png' style="width:50px;height:50px">
-</a>
-<a target="_blank" href="https://www.u.tools/" style="margin-right: 20px;">
-  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/uTool.png' style="width:120px;height:50px">
-</a>
-<a target="_blank" href="https://molunerfinn.com/PicGo/" style="margin-right: 20px;">
+</a>&nbsp&nbsp
+<a target="_blank" href="https://molunerfinn.com/PicGo/">
   <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/PicGo.png' style="width:50px;height:50px">
-</a>
+</a>&nbsp&nbsp
+<a target="_blank" href="https://www.u.tools/">
+  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/uTool.png' style="width:100px;height:50px">
+</a>&nbsp&nbsp
+
+<br/>
+<br/>
+
+<a target="_blank" href="https://github.com/zxlie/FeHelper">
+  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/FeHelper.png' style="width:50px;height:50px">
+</a>&nbsp&nbsp
 <a target="_blank" href="https://www.xshell.com/zh/xftp/">
-  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/xftp.png' style="width:50px;height:50px">
+  <img src='https://imgstorage-1313684358.cos.ap-nanjing.myqcloud.com/Typora/slogo/xftp2.png' style="width:70px;height:50px">
 </a>
+
 
 
 <!--
