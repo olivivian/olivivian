@@ -8,8 +8,8 @@
 
 > 由于域名可能会换，所以发现链接失效就来这边找最新的吧！
 
-- 这个是 🌱 [资料库JinDoc](doc.axjy.info)
-- 这个是 😄 [个人博客JinBlog](www.axjy.info)
+- 这个是 🌱 [资料库JinDoc](https://doc.axjy.info)
+- 这个是 😄 [个人博客JinBlog](https://www.axjy.info)
 - 这个是 ⚡ [资源导航JinTool](https://olivivian.gitee.io/nav/#)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6&margin-w=15)](https://www.axjy.info)
