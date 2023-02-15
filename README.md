@@ -10,7 +10,7 @@
 
 - 这个是 🌱 [资料库JinDoc](https://doc.axjy.info)
 - 这个是 😄 [个人博客JinBlog](https://www.axjy.info)
-- 这个是 ⚡ [资源导航JinTool](https://olivivian.gitee.io/nav/#)
+- 这个是 ⚡ [资源导航JinTool](https://nav.axjy.info/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=6&margin-w=15)](https://www.axjy.info)
 
